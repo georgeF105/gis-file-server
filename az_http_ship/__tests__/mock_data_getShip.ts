@@ -1,0 +1,58 @@
+export default [
+    {
+        id: 21,
+        name: "ABC Cocomelon Ship",
+        code: "abc-cocomelon",
+        is_active: true,
+        updated_date: "2023-02-27T17:42:12.143",
+    },
+    {
+        id: 9,
+        name: "Going Merry",
+        code: "going-merry",
+        is_active: true,
+        updated_date: "2023-02-23T11:44:05.710",
+    },
+    {
+        id: 12,
+        name: "Millennium Falcon",
+        code: "millennium-falcon",
+        is_active: true,
+        updated_date: "2023-02-23T11:44:05.713",
+    },
+    {
+        id: 14,
+        name: "Moby Dick",
+        code: "moby-dick",
+        is_active: true,
+        updated_date: "2023-02-23T11:44:05.713",
+    },
+    {
+        id: 10,
+        name: "Oro Jackson",
+        code: "oro-jackson",
+        is_active: true,
+        updated_date: "2023-02-23T11:44:05.713",
+    },
+    {
+        id: 13,
+        name: "Red Force",
+        code: "red-force",
+        is_active: true,
+        updated_date: "2023-02-23T11:44:05.713",
+    },
+    {
+        id: 11,
+        name: "Red October",
+        code: "red-october",
+        is_active: true,
+        updated_date: "2023-02-23T11:44:05.713",
+    },
+    {
+        id: 8,
+        name: "Thousand Sunny",
+        code: "thousand-sunny",
+        is_active: true,
+        updated_date: "2023-02-23T11:44:05.710",
+    },
+]
